@@ -1,2 +1,1 @@
-# .github
-OnlyBot is the platform for creating and managing e-commerce bots for the most popular messengers.
+This repository provides the content for the <a href="onlybot.net">onlybot platform</a>
