@@ -1,4 +1,4 @@
-<a href="https://onlybot.net">
-  <img src="https://user-images.githubusercontent.com/10379680/197345382-c91a8b97-23bd-4077-bbad-701bb36b80d1.png"/>
+<a href="https://salesnode.io">
+  <img src="https://user-images.githubusercontent.com/10379680/218204008-7ef83a93-175a-4a2a-87d6-b0c3eb20c30c.png" alt="salesnode"/>
 </a>
 
