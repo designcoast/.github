@@ -1,3 +1,3 @@
-<a href="https://salesnode.io">
-  <img src="https://user-images.githubusercontent.com/10379680/225164487-fdd817cb-132c-4f4b-a320-c2d09867aa26.png" alt="salesnode"/>
+<a href="https://desonar.com">
+  <img src="https://github.com/salesnode/.github/assets/10379680/213695a0-1daf-4c40-8f65-84f4483281d8" alt="desonar"/>
 </a>
